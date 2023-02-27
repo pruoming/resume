@@ -11,7 +11,7 @@ contact:
     link: pruoming.github.io
   - icon: fa-github
     text: your-github
-    link: https://github.com/crispgm/resume
+    link: https://github.com/pruoming
 education:
   - university: 电子科技大学
     duration: 09 2011 - 06 2015
@@ -33,7 +33,7 @@ skills:
   - title: 仿真计算
     items: 有限元分析，有限时域差分模拟等
   - title: 实验技能
-    items: 集成光学，自由光学，量子通信，集成声学，低温光学微博测量等
+    items: 集成光学，自由光学，量子通信，集成声学，低温光学微波测量等
 experience:
   - title: 博士后研究员
     duration: 10 2022 - 现在
