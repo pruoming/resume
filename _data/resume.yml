@@ -16,35 +16,33 @@ education:
   - university: 电子科技大学
     duration: 09 2011 - 06 2015
     location: 成都
-    major: 微电子学
+    major: 微电子与固体电子学院，微电子学，学士学位
   - university: 明尼苏达大学
     duration: 09 2015 - 09 2018
     location: 明尼阿波利斯
-    major: 电子工程
+    major: 电子与计算机工程学院，电子工程，硕士学位
   - university: 华盛顿大学
     duration: 09 2018 - 03 2022
     location: 西雅图
-    major: 电子工程
+    major: 电子与计算机工程学院，电子工程，博士学位 于2020年获得Clairmont L. Egtvedt Endowed Engineering Fellowship（全校共三人）, 并于2021年获得MRS Travel Grant.
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: 软件
+    items: Python, Labview, Matlab, Mathematica, 3ds max等
+  - title: 微纳加工
+    items: 光刻，电子束刻蚀，电子束蒸镀，反应离子刻蚀等
+  - title: 仿真计算
+    items: 有限元分析，有限时域差分模拟等
+  - title: 实验技能
+    items: 集成光学，自由光学，量子通信等
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: 博士后研究员
+    duration: 10 2022 - 现在
+    company: 斯图加特大学
+    description: 研究基于自旋量子比特的量子计算，并实现通过自旋来实现微波频段的量子器件与光量子器件的互联。
+  - title: 博士后研究员
+    duration: 03 2022 - 08 2022
+    company: 芝加哥大学
+    description: 于2022年入选kananoff rice fellow，从事基于稀土离子的量子计算的研究
 projects:
   - name: Project Name 1
     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -53,7 +51,7 @@ projects:
     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     contribution: Creator and maintainer.
 languages:
-  - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
-    proficiency: Native
+  - name: 英语
+    proficiency: 流利
+  - name: 中文
+    proficiency: 母语
