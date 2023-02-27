@@ -24,7 +24,7 @@ education:
   - university: 华盛顿大学
     duration: 09 2018 - 03 2022
     location: 西雅图
-    major: 电子与计算机工程学院，电子工程，博士学位 于2020年获得Clairmont L. Egtvedt Endowed Engineering Fellowship（全校共三人）, 并于2021年获得国际材料协会MRS Travel Grant.
+    major: 电子与计算机工程学院，电子工程，博士学位 <br>于2020年获得Clairmont L. Egtvedt Endowed Engineering Fellowship（全校共三人）, 并于2021年获得国际材料协会MRS Travel Grant.
 skills:
   - title: 软件
     items: Python, Labview, Matlab, Mathematica, 3ds max, Adobe illustrator等
