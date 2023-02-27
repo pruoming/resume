@@ -24,7 +24,7 @@ education:
   - university: 华盛顿大学
     duration: 09 2018 - 03 2022
     location: 西雅图
-    major: 电子与计算机工程学院，电子工程，博士学位 于2020年获得Clairmont L. Egtvedt Endowed Engineering Fellowship（全校共三人）, 并于2021年获得MRS Travel Grant.
+    major: 电子与计算机工程学院，电子工程，博士学位 于2020年获得Clairmont L. Egtvedt Endowed Engineering Fellowship（全校共三人）, 并于2021年获得国际材料协会MRS Travel Grant.
 skills:
   - title: 软件
     items: Python, Labview, Matlab, Mathematica, 3ds max等
@@ -44,12 +44,21 @@ experience:
     company: 芝加哥大学
     description: 于2022年入选kananoff rice fellow，从事基于稀土离子的量子计算的研究
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+  - name: 电学可调的激子单光子源阵列
+    description: Nature nanotechnology
+    contribution: 通信作者.
+  - name: 声波可控的激子输运
+    description: Nature communications
+    contribution: 第一作者.
+  - name: 基于黑磷的感存化一体的传感器阵列
+    description: Nature communications
+    contribution: 共同一作和通信.
+  - name: 用于谷自旋读出的各向异性光子晶体
+    description: Nano Letters
+    contribution: 第一作者.
+  - name: 基于黑磷的集成中红外光调制器
+    description: Nano Letters
+    contribution: 第一作者.
 languages:
   - name: 英语
     proficiency: 流利
