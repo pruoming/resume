@@ -6,11 +6,11 @@ contact:
     text: pruoming@gmail.com
   - icon: fa-phone-square
     text: 1627301503
-  - icon: fa-globe
-    text: 简历
-    link: pruoming.github.io
+  #- icon: fa-globe
+   # text: 简历
+    #link: pruoming.github.io
   - icon: fa-github
-    text: your-github
+    text: Github
     link: https://github.com/pruoming
 education:
   - university: 电子科技大学
