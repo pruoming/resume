@@ -6,14 +6,14 @@ contact:
     text: pruoming@gmail.com
   - icon: fa-phone-square
     text: 1627301503
-  - icon: fa-linkdin
+  - icon: fa-linkedin
     text: 领英
     link: https://www.linkedin.com/in/ruoming-peng-55a629ab/
   - icon: fa-github
     text: Github
     link: https://github.com/pruoming
   - icon: fa-google
-    text: Github
+    text: Google Scholar
     link: https://scholar.google.de/citations?hl=en&user=id7EmzYAAAAJ
 education:
   - university: 电子科技大学
