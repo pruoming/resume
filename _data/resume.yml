@@ -6,12 +6,15 @@ contact:
     text: pruoming@gmail.com
   - icon: fa-phone-square
     text: 1627301503
-  #- icon: fa-globe
-   # text: 简历
-    #link: pruoming.github.io
+  - icon: fa-linkdin
+    text: 领英
+    link: https://www.linkedin.com/in/ruoming-peng-55a629ab/
   - icon: fa-github
     text: Github
     link: https://github.com/pruoming
+  - icon: fa-google
+    text: Github
+    link: https://scholar.google.de/citations?hl=en&user=id7EmzYAAAAJ
 education:
   - university: 电子科技大学
     duration: 09 2011 - 06 2015
@@ -38,7 +41,7 @@ experience:
   - title: 博士后研究员
     duration: 10 2022 - 现在
     company: 斯图加特大学
-    description: 研究基于自旋量子比特的量子计算，并实现通过自旋来实现微波频段的量子器件与光量子器件的互联。
+    description: 研究基于自旋量子比特的量子计算，并通过操纵自旋来实现微波频段的量子器件与光量子器件的互联。
   - title: 博士后研究员
     duration: 03 2022 - 08 2022
     company: 芝加哥大学
